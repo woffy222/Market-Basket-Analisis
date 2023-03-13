@@ -1,0 +1,8 @@
+# Market-Basket-Analisis
+Market basket analysis is a statistical technique used to identify associations between products that are frequently purchased together by customers. It is also known as affinity analysis or association rule mining.
+
+Market basket analysis works by analyzing transaction data from a store or website to determine which items are frequently purchased together. The analysis identifies the products that tend to be bought together and the frequency of their co-occurrence in the same transaction.
+
+This information is then used to generate rules or associations between products that can be used to optimize product placement and promotion, make recommendations to customers, or design marketing campaigns.
+
+Market basket analysis is widely used in retail, e-commerce, and other industries to better understand customer behavior and improve sales and marketing strategies.
